@@ -1,3 +1,4 @@
+
 //lower half of rectangle pattern
 import java.util.*;
 
@@ -16,3 +17,11 @@ public class tanglePattern {
 
     }
 }
+
+/*
+ * output:
+ * 
+ * *
+ * * *
+ * * * *
+ */
