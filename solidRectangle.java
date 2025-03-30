@@ -1,3 +1,4 @@
+
 //printing solid rectangle pattern using java
 import java.util.*;
 
@@ -11,7 +12,7 @@ public class solidRectangle {
             for (j = 1; j <= m; j++) {
                 System.out.print("* ");
             }
-            System.out.println();
+            System.out.println();// this line to print or exit line
         }
 
     }
